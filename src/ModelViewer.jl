@@ -1,5 +1,9 @@
 module ModelViewer
 
-# Write your package code here.
+using Lux
+using GLMakie
+using GraphMakie
+using Graphs 
+using Random
 
 end
